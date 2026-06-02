@@ -7,7 +7,7 @@ The Lab was done to create an IAM user which will be used for day to day activit
 - Create an IAM user with least-privilege permissions
 - Enable MFA on the root and IAM accounts
 - Understand the difference between root and IAM users
-- 
+- Make use of Budget and Pricing Calculator
 
 ## AWS Services Used
 - AWS IAM (Identity and Access Management)
