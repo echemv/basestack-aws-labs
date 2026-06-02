@@ -63,7 +63,7 @@ The Lab was done to create an IAM user which will be used for day to day activit
 - The root account should NEVER be used for day-to-day operations
 - IAM policies follow the principle of least privilege
 - MFA adds a critical second layer of security
-- Budgets and COst should be estimated/set up to avoid unforseen costs
+- Budgets and Cost should be estimated/set up to avoid unforseen costs
 
 ## Cleanup
 To avoid charges, the following resources were deleted after the lab:
