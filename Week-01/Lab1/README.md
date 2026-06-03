@@ -69,5 +69,14 @@ The Lab was done to create an IAM user which will be used for day to day activit
 To avoid charges, the following resources were deleted after the lab:
 - IAM user `Vadmin` was disabled (kept for practice)
 
+# AWS Regions Cheat Sheet-Wk1
+
+## Screenshots related to Day 2 work on Regions, AZs and Edge locations
+![AWS Map showing Africa Region](../../screenshots/W1-AWS_Map.png)
+![AWS Region Cheat Sheet Table](../../screenshots/W1-Cheat_Sheet_Table.png)
+![AWS Console Region Selector](../../screenshots/W1-Console_Region_Selector.png)
+
+[Link to GithubGist](https://gist.github.com/echemv/9dc8b75f5378cad2d74fa26b3b3d2d54)
+
 ---
 *Completed: May 2026 | BaseStack AWS Cloud Accelerator — Cohort 1*
