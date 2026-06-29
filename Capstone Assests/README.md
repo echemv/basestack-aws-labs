@@ -14,7 +14,7 @@ at under $200/month steady-state cost.
 
 ## Architecture Diagram
 
-![OluPay 2.0 Architecture](./architecture.png)
+![OluPay 2.0 Architecture](./olupay_full_architecture.png)
 
 ---
 
